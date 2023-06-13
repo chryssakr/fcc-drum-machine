@@ -1,34 +1,33 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  
-  h1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  
-  }
-  #buttons {
-    margin-top: 30px;
-  }
-  
-  #display {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .drum-pad:hover {
-    background-color: #F2AB15;
-  }
-  
-  .active {
-    background-color: #F2AB15;
-  }
-  
-  #display {
-    margin: 10px 0;  
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#buttons {
+  margin-top: 30px;
+}
+
+#display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.drum-pad:hover {
+  background-color: #f2ab15;
+}
+
+.active {
+  background-color: #f2ab15;
+}
+
+#display {
+  margin: 10px 0;
+}
